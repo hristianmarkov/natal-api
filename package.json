@@ -8,7 +8,7 @@
     "dependencies": {
       "express": "^4.18.2",
       "cors": "^2.8.5",
-      "sweph": "git+https://github.com/andrmoel/node-sweph.git"
+      "sweph": "https://github.com/andrmoel/node-sweph.git"
     }
   }
   

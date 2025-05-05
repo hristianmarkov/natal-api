@@ -3,12 +3,24 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-      "start": "node index.js"
+        "start": "node index.js"
     },
     "dependencies": {
-      "express": "^4.18.2",
-      "cors": "^2.8.5",
-      "sweph": "https://github.com/andrmoel/node-sweph.git"
-    }
-  }
-  
+        "express": "^4.18.2",
+        "cors": "^2.8.5",
+        "sweph": "git+https://github.com/andrmoel/node-sweph.git"
+    },
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hristianmarkov/natal-api.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/hristianmarkov/natal-api/issues"
+    },
+    "homepage": "https://github.com/hristianmarkov/natal-api#readme"
+}
